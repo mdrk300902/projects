@@ -29,7 +29,9 @@ o	t-SNE shows partial but meaningful separation between classes
 ________________________________________
 🧠 Steps Overview
 ✅ STEP 1: Install Dependencies
+
 Install essential libraries like kaggle for dataset access and opencv-python-headless for image processing.
+
 ✅ STEP 2: Download & Unzip Dataset
 Authenticate with Kaggle using kaggle.json and download the brain tumor MRI dataset. It contains two classes: yes (tumor), no (no tumor).
 ✅ STEP 3: Load & Preprocess Data
